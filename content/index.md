@@ -1,10 +1,10 @@
 ---
-title: Resolutions Digital Garden
+title: Resolutions History Garden
 draft: false
 tags:
 ---
  
-Welcome to the Colgate Resolutions Digital Garden!
+Welcome to the Colgate Resolutions History Garden!
 
 This is a place designed to be explored by Resos, past and present, so that they can get in touch with the history of the group, find answers to historical questions, and hopefully develop a stronger connection between alumni and currents!
 

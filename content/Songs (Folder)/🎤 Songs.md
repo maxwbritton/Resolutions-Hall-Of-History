@@ -1,5 +1,5 @@
 
-This is the (mostly complete) master list of every song that the Resos have ever sang.
+This is the (mostly complete) master list of every song that the Resos have ever sang. If a song has been included in an album, the album will be listed in the "Backlinks" section at the bottom of the song's page.
 
 **#**
 - [[(Sittin' On) The Dock of the Bay]]
