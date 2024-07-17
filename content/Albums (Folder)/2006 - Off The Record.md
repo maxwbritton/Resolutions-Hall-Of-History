@@ -13,6 +13,6 @@
 | 10  | [[Show Me Love]]       |
 | 11  | [[If I Ain't Got You]] |
 | 12  | [[Soul To Squeeze]]    |
-| 13  | [[Country Medley]]     |
+| 13  | [[Country Medley*]]     |
 | 14  | [[Evening Song]]       |
 Source: https://www.rarb.org/reviews/albums/724-off-the-record/

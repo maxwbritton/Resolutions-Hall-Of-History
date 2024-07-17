@@ -9,7 +9,7 @@
 | 6   | [[Stoppin' the Love]]                    |
 | 7   | [[Freedom! '90]]                         |
 | 8   | [[Zombie]]                               |
-| 9   | [[10,000 Nights]]                        |
+| 9   | [[10,000 Nights Of Thunder]]                        |
 | 10  | [[Love Song]]                            |
 | 11  | [[Tempted]]                              |
 | 12  | [[Apologize/Lovestoned]]                 |
