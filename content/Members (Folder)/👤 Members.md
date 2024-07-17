@@ -3,3 +3,5 @@ Directory
 -  [[🧑‍🧑‍🧒‍🧒 All Members]]
 -  [[🔢 Family Affiliations]]
 -  [[🧑‍🧒 Generations]]
+-  [[🎤 Voice Part]]
+-  [[❌ Disaffiliated]]
