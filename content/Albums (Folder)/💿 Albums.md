@@ -1,16 +1,16 @@
 The following is a (currently incomplete) list of every album that the Resolutions have produced.
 
-[[1996 - In the Shower]]
+[[1996 - In The Shower (Untracked)]]
 
 [[1998 - All Kidding Aside]]
 
 [[2000 - Evolygrooser (Album)]]
 
-[[2002 - Ten Years Old]]
+[[2002 - Ten Years Old (Untracked)]]
 
 [[2006 - Off The Record]]
 
-[[2008 - Under Wraps]]
+[[2008 - Under Wraps (Untracked)]]
 
 [[2010 - Monday Night Club]]
 
@@ -26,4 +26,4 @@ The following is a (currently incomplete) list of every album that the Resolutio
 
 [[2022 - On The Drive]]
 
-[[Highs and Lows]]
+[[Highs and Lows (Untracked)]]

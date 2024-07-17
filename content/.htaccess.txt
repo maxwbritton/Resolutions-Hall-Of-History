@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Protected Site"
+AuthUserFile /Users/maxwalker/quartz/content/.htpasswd
+require valid-user
