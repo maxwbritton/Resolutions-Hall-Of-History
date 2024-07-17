@@ -15,7 +15,8 @@ This is a place designed to be explored by Resos, past and present, so that they
 -  [[🍁 Fall Concert Archives]]
 - [[👤 Members]] 
 -  [[🎤 Songs]]
--  [[🔠 Terminology]]
+- [[🔠 Terminology]]
+- [[🕰️ Timeline]]
 
 
 A project by Maxwell Walker #238
