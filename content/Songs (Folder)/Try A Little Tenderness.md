@@ -2,7 +2,7 @@ Artist: Otis Redding
 
   
 
-Arranger(s): [[David Gildin '15 (no.165)]]
+Arranger(s): [[165. David Gildin]]
 
   
 

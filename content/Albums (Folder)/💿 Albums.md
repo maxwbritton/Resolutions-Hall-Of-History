@@ -26,4 +26,4 @@ The following is a (currently incomplete) list of every album that the Resolutio
 
 [[2022 - On The Drive]]
 
-[[Highs and Lows (Untracked)]]
+[[2017 - Highs and Lows]]

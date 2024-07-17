@@ -23,7 +23,7 @@ This is the (mostly complete) master list of every song that the Resos have ever
 - [[And So It Goes]]
 - [[Anyday]]
 - [[Any Way You Want It]]
-- [[Apologise-Lovestoned]]
+- [[Apologize-LoveStoned]]
 - [[Aquarius-Let The Sunshine In]]
 - [[As Time Goes By]]
 
@@ -38,10 +38,12 @@ This is the (mostly complete) master list of every song that the Resos have ever
 - [[Because]]
 - [[Bein' Green]]
 - [[Believe]]
-- [[Bellyache]]
+- [[bellyache]]
+- [[Beloved]]
 - [[Bennie and the Jets]]
 - [[Better Than]]
 - [[Better Together]]
+- [[Big Empty]]
 - [[Bittersweet Symphony]]
 - [[Blame it on the Boogie]]
 - [[Bloom]]
@@ -121,7 +123,7 @@ This is the (mostly complete) master list of every song that the Resos have ever
 - [[HIM]]
 - [[Holocene]]
 - [[Home]]
-- [[Home Again]]
+- [[✨Home Again✨]]
 - [[Home Again (Live)]]
 - [[Hotel California]]
 - [[Hotel Song]]
@@ -145,7 +147,7 @@ This is the (mostly complete) master list of every song that the Resos have ever
 **J**
 
 -  [[Jack and Diane]]
-- [[Jackie O]]
+- [[Jackie Onassis]]
 - [[Joker]]
 - [[Just Like Heaven]]
 
@@ -158,9 +160,9 @@ This is the (mostly complete) master list of every song that the Resos have ever
 - [[L.I.F.E.G.O.E.S.O.N.]]
 - [[Landslide]]
 - [[Lengthwise]]
+- [[Linger]]
 - [[Little Freak]]
 - [[Livin' On A Prayer]]
-- [[Linger]]
 - [[London Rain]]
 - [[Love Song]]
 - [[Love On The Brain]]
@@ -272,7 +274,7 @@ This is the (mostly complete) master list of every song that the Resos have ever
 - [[The House That Built Me]]
 - [[The Joker]]
 - [[The Mother We Share]]
-- [[The Scientist - Fix You]]
+- [[The Scientist-Fix You]]
 - [[The Way You Look Tonight]]
 - [[These Are Days]]
 - [[This Love]]
@@ -290,6 +292,7 @@ This is the (mostly complete) master list of every song that the Resos have ever
 
 - [[Valerie]]
 - [[Valerie 2]]
+- [[Vienna]]
 - [[Virtual Insanity]]
 
 **W**

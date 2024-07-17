@@ -1,3 +1,4 @@
+[[1998]]
 
 |     | Track List                   |
 | --- | ---------------------------- |
@@ -14,6 +15,6 @@
 | 11  | [[Ghost]]                    |
 | 12  | [[The Way You Look Tonight]] |
 | 13  | [[Freedom! '90]]             |
-| 14  | [[Home Again]]               |
+| 14  | [[✨Home Again✨]]               |
 | 15  | [[Colgate Medley]]           |
 Source: https://rateyourmusic.com/release/album/the_resolutions/all_kidding_aside/

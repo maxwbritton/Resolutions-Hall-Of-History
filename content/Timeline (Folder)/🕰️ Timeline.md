@@ -1,7 +1,5 @@
 Here you can navigate Reso history by year, and can see what members were active and what happened.
 
-Years:
-
 [[1992]]
 [[1993]]
 [[1994]]

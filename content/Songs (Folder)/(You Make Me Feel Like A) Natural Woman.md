@@ -2,7 +2,7 @@ Artist: Carole King
 
   
 
-Arranger(s): [[David Gildin '15 (no.165)]]
+Arranger(s): [[165. David Gildin]]
 
   
 
