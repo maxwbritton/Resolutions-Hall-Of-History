@@ -19,6 +19,6 @@ Performance Links:
 2016: https://www.youtube.com/watch?v=uyx8uNaXdPM
 2018: https://www.youtube.com/watch?v=gPDpK6TIOu0
 
-Recording:![[03 Anyday (Solo - Charles _Chuck_ Marshall _99).mp3]]
+
 
 Additional Information:
