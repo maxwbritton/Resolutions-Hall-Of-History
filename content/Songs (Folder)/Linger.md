@@ -14,6 +14,8 @@ Originally Performed At: [[Family Weekend 2018]]
 Performance Links:
 2018: https://www.youtube.com/watch?v=24aEyHR7V-M
 
+Recording:
+![[02 Linger (Solo - Maggie Grise _99).mp3]]
   
 
 Additional Information:

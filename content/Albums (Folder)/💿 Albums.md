@@ -1,6 +1,6 @@
 The following is a (currently incomplete) list of every album that the Resolutions have produced.
 
-[[1996 - In The Shower (Untracked)]]
+[[1996 - In The Shower]]
 
 [[1998 - All Kidding Aside]]
 
