@@ -1,0 +1,1 @@
+A competition to see who is the best Reso at certain skills. 

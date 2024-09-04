@@ -1,0 +1,1 @@
+When all the Resos sit in a happy circle and talk about their day instead of singing!
