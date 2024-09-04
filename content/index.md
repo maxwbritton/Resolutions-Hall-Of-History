@@ -1,5 +1,5 @@
 ---
-title: Resolutions History Garden
+title: Resolutions Hall of History
 draft: false
 tags:
 ---
